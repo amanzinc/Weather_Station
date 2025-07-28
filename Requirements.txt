@@ -1,0 +1,11 @@
+Requirements:
+
+7 I2C connections (JST XH)
+3 Analog pins
+ESP32
+2 Solid state Relay(6A)
+AC/DC-12V Module
+Buck Converter 5V 
+Terminal Barrier Connectors
+UART 
+3 Digital Pins
